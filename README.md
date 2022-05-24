@@ -1,5 +1,5 @@
 # Balance-Dollar-Game-
-A Quickly made Unity game to test the IA C# Library
+A Quickly made Unity game to test the AI C# Library
 
 The game idea was inspired by the Numphile video "The Dollar Game" : https://www.youtube.com/watch?v=U33dsEcKgeQ
 
