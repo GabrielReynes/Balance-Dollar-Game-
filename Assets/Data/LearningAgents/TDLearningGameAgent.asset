@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: TDLearningGameAgent
   m_EditorClassIdentifier: 
   gameStateGenerator: {fileID: 11400000, guid: 35356cd81d3c6e4439ffbb00f114dd0e, type: 2}
-  epsilon: 0
+  epsilon: 0.24
   alpha: 0.8
   discount: 0.9
   trainingRepetition: 10000
